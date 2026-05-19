@@ -34,8 +34,8 @@ Predict on test data, plot actual vs. predicted prices
 
 ## PROGRAM
 
-### Name: ALLEN JOVETH P
-### Register Number: 212223240007
+### Name: T Ajay
+### Register Number: 212223230007
 
 ```python
 
